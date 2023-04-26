@@ -1,4 +1,4 @@
-<img src="https://github.com/CLettuce/MainGithub/blob/main/nave.gif?raw=true" width="100%" height="150">
+![Snake animation](https://github.com/CLettuce/CLettuce/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Carlos López</h1>
 <h3 align="center">I'm a Frontend developer and a bit Backend</h3>
