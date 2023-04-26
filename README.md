@@ -1,4 +1,4 @@
-[![Snake animation](https://github.com/CLettuce/CLettuce/blob/output/github-contribution-grid-snake.svg)](https://github.com/CLettuce)
+![Snake animation](https://github.com/CLettuce/CLettuce/blob/output/github-contribution-grid-snake.svg)
 
 
 <h1 align="center">Hi 👋, I'm Carlos López</h1>
