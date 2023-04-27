@@ -70,8 +70,8 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clettuce&show_icons=true&locale=en" alt="clettuce" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clettuce&show_icons=true&locale=en&layout=compact" alt="clettuce" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clettuce&show_icons=true&locale=en" alt="clettuce" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clettuce&" alt="clettuce" /></p>
